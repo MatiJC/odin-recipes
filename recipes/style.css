@@ -1,0 +1,30 @@
+h1 {
+    margin: 3rem;
+}
+
+h4{
+    margin: 3rem 0 1rem 3rem;
+}
+
+p {
+    margin: 1.5rem 0 0 3rem;
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.ingredientes {
+    display: flex;    
+}
+
+div {
+    margin: 0 1rem;
+}
+
+li {
+    margin: 1rem 0 0rem 1.5rem;
+}
+
